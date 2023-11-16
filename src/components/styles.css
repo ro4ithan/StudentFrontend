@@ -1,0 +1,49 @@
+nav {
+  background: linear-gradient(
+    90deg,
+    rgba(58, 172, 23, 1) 4%,
+    rgba(0, 212, 255, 1) 91%
+  );
+}
+/* navbar ends */
+
+/* form starts */
+input,
+label {
+  display: block;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+img {
+  height: 350px;
+}
+
+h1 {
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 30px;
+
+}
+
+#submit{
+  width: 100px;
+  margin-top: 10px;
+  display:block;
+  box-shadow: 0cap;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:orchid;
+}
+
+ul,li{
+  list-style-type: none;
+  padding: 0%;
+}
